@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emma Strienko and I'm a computer science student</h2>
+<h2 align="left">Hi👋! My name is Emma Strienko and I'm a Computer Science student</h2>
 
 ###
 
