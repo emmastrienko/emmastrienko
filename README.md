@@ -1,29 +1,28 @@
-<h2 align="left">Hi 👋! I'm Emma Strienko — full-stack coder & content creator</h2>
-
-###
 
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNieHo1ZjB5aTdxNmszam1jM29ocjRqM2UwNnhlaHo4NzVtZ2tlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oqk1q3Ne6KfXCkBbSv/giphy.gif" alt="Cool GIF" width="220" align="left" />
  <pre>
-    💻 Full-stack coder & content creator
-    ✨ Passionate about clean, scalable code
-    🚀 Love diving into JavaScript, React & Python
-    🎥 Sharing my dev journey on YouTube
-    ☕ Fueled by coffee & anime soundtracks 🎵
-    🌱 Always learning, building, and inspiring
+💻 Full-stack coder & content creator
+✨ Passionate about clean, scalable code & elegant solutions
+🚀 Love diving into JavaScript, React & Python — always exploring new tools
+🎥 Sharing my dev journey on YouTube, building a supportive community
+☕ Fueled by coffee & anime soundtracks 🎵 — coding with vibes
+🌱 Always learning, building, and inspiring others to grow
+🔧 Enjoy solving complex problems and debugging tricky bugs
+📚 Avid reader of tech blogs and programming books
+💡 Believe in continuous improvement & creative thinking
+</pre>
 
-
-
-   
-   
- </pre>
 
 ###
 
 <img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" alt="Chainsaw Man GIF" />
 
 ###
-
-<div align="left" style="margin-top: 60px;">
+<br />
+<br />
+<br />
+<br />
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
