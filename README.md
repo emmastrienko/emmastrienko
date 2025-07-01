@@ -2,9 +2,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmastrienko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNieHo1ZjB5aTdxNmszam1jM29ocjRqM2UwNnhlaHo4NzVtZ2tlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oqk1q3Ne6KfXCkBbSv/giphy.gif" alt="Cool GIF" width="220" align="left" />
+ <pre>
+    💻 Full-stack coder & content creator
+    ✨ Passionate about clean, scalable code
+    🚀 Love diving into JavaScript, React & Python
+    🎥 Sharing my dev journey on YouTube
+    ☕ Fueled by coffee & anime soundtracks 🎵
+    🌱 Always learning, building, and inspiring
+
+
+
+   
+   
+ </pre>
 
 ###
 
@@ -43,13 +54,15 @@
 
 ## 🧬 About Me
 
-<table>
-  <tr>
-    <td width="190px">
-      <img src="./yor.png" width="190px" />
-    </td>
-    <td>
-      <pre>
+<div style="display: flex; align-items: center; gap: 20px; max-width: 700px;">
+  <img
+    src="./yor.png"
+    alt="Emma Strienko"
+    width="280"
+    align="left"
+  />
+
+  <pre style="background:#1e1e2f; color:#cfcfcf; padding: 20px; border-radius: 8px; font-family: 'Fira Mono', monospace; white-space: pre-wrap; margin: 0;">
 [ SYSTEM LOG BOOTING... ]
 > User: Emma Strienko
 > Alias: emmastrienko
@@ -70,7 +83,4 @@
 > Daily Routine: Code. Create. Connect. Repeat.
 > Boot complete. Welcome, traveler.
 </pre>
-    </td>
-  </tr>
-</table>
 
