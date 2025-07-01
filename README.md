@@ -37,9 +37,40 @@
   </a>
   <img draggable="false" style="height:35px;" src="https://komarev.com/ghpvc/?username=emmastrienko&style=for-the-badge&color=1C8C8C" alt="Profile Views" />
 
-        
 </div>
 
-
-
 <br clear="both">
+
+## 🧬 About Me
+
+<table>
+  <tr>
+    <td width="190px">
+      <img src="./yor.png" width="190px" />
+    </td>
+    <td>
+      <pre>
+[ SYSTEM LOG BOOTING... ]
+> User: Emma Strienko
+> Alias: emmastrienko
+> Role: Computer Science Student | Full-stack Explorer | Content Creator
+> Specialty: JavaScript, React, Node.js, Python
+> Operating System: CuriosityOS v2.5
+> Status: ⚡Active | ⚔️Training Mode
+> Mission: Learn, build, inspire
+> Side Quest: Creating content that empowers future devs
+> Output Channel: 📹 YouTube @emmastrienko
+> MBTI Personality: ENFJ-INFJ Hybrid — The Visionary Guide
+> Current XP: +3400 GitHub commits
+> Companion: Anime OSTs + Late Night Debug Sessions
+> Weakness Detected: 💤 Needs coffee to function
+> Visual Theme: 🌙 Dark mode always
+> Background: Once lost in fantasy books — now building real-world magic with code
+> Armor Equipped: Curiosity, clear goals, and the will to never give up
+> Daily Routine: Code. Create. Connect. Repeat.
+> Boot complete. Welcome, traveler.
+</pre>
+    </td>
+  </tr>
+</table>
+
