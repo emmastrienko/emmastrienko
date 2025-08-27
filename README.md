@@ -43,9 +43,9 @@
 
 <div align="left" style="display: flex; align-items: center; gap: 12px;">
   <a href="https://www.youtube.com/@emmastrienko" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
   </a>
-  <img draggable="false" style="height:35px;" src="https://komarev.com/ghpvc/?username=emmastrienko&style=for-the-badge&color=1C8C8C" alt="Profile Views" />
+  <img draggable="false" style="height:30px;" src="https://komarev.com/ghpvc/?username=emmastrienko&style=for-the-badge&color=1C8C8C" alt="Profile Views" />
 
 </div>
 
