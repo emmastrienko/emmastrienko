@@ -51,35 +51,6 @@
 
 <br clear="both">
 
-## 🧬 About Me
 
-<div style="display: flex; align-items: center; gap: 20px; max-width: 700px;">
-  <img
-    src="./yor.png"
-    alt="Emma Strienko"
-    width="280"
-    align="left"
-  />
-
-  <pre style="background:#1e1e2f; color:#cfcfcf; padding: 20px; border-radius: 8px; font-family: 'Fira Mono', monospace; white-space: pre-wrap; margin: 0;">
-[ SYSTEM LOG BOOTING... ]
-> User: Emma Strienko
-> Alias: emmastrienko
-> Role: Computer Science Student | Full-stack Explorer | Content Creator
-> Specialty: JavaScript, React, Node.js, Python
-> Operating System: CuriosityOS v2.5
-> Status: ⚡Active | ⚔️Training Mode
-> Mission: Learn, build, inspire
-> Side Quest: Creating content that empowers future devs
-> Output Channel: 📹 YouTube @emmastrienko
-> MBTI Personality: ENFJ-INFJ Hybrid — The Visionary Guide
-> Current XP: +3400 GitHub commits
-> Companion: Anime OSTs + Late Night Debug Sessions
-> Weakness Detected: 💤 Needs coffee to function
-> Visual Theme: 🌙 Dark mode always
-> Background: Once lost in fantasy books — now building real-world magic with code
-> Armor Equipped: Curiosity, clear goals, and the will to never give up
-> Daily Routine: Code. Create. Connect. Repeat.
-> Boot complete. Welcome, traveler.
-</pre>
-
+## 📊 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmastrienko&theme=react-dark&area=true&hide_border=true)
