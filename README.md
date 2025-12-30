@@ -51,6 +51,3 @@
 
 <br clear="both">
 
-
-## 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmastrienko&theme=react-dark&area=true&hide_border=true)
