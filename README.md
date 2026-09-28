@@ -1,4 +1,3 @@
-
 <div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc241OXJmZW9yejc0cnl0YWFtbHpsNzkxemFiaHZrNTRpbmtobmx2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3Wj1SxyDEznCjXiMtm/giphy.gif" alt="Maomao GIF" width="300" align="left" style="margin-top: 35px; margin-right: 20px;" />
 
@@ -10,7 +9,7 @@
 🧩 I like figuring out how things work — then building them myself
 🔧 Currently focused on becoming a stronger, more independent developer
 🎥 Creating faceless coding content on YouTube & TikTok
-🎨 Into anime, cyber aesthetics & making my projects feel like my own
+🎨 Into anime, visual experimentation & making my projects feel like my own
 🌱 Always experimenting, learning, and building something new
 </pre>
 
@@ -65,6 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
 </div>
 
+<p align="center">
+  <sub>✦ ── always learning, always tinkering ── ✦</sub>
+</p>
+
 <br />
 
 <div align="left">
@@ -95,10 +98,8 @@
 
 <br clear="both">
 
-<p align="right">
-  ╭───────────────╮<br />
-  │  🧩 building  │<br />
-  ╰───────────────╯
+<p align="left">
+  ⟡ <sub>01 / building</sub>
 </p>
 
 <img
@@ -124,6 +125,10 @@ Lately, I've been interested in **SaaS products, AI-powered features, and learni
   · ──── ✦ ──── ·
 </p>
 
+<p align="right">
+  ⟡ <sub>02 / learning</sub>
+</p>
+
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JuYjd3ZzB4d2g5NTJmNWJ6ODYzZjRjMDlieGJjZ3JlYmxnODQ0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwkpuW7xF9BflrrYpB/giphy.gif"
 width="280"
@@ -145,6 +150,10 @@ I'm especially interested in getting better at **understanding code instead of j
 
 <p align="center">
   · ──── ⌁ ──── ·
+</p>
+
+<p align="left">
+  ⟡ <sub>03 / creating</sub>
 </p>
 
 <img
@@ -170,6 +179,10 @@ My YouTube channel recently passed **1 million total views**, which made the who
 
 <p align="center">
   · ──── ✦ ──── ·
+</p>
+
+<p align="right">
+  ⟡ <sub>04 / things I like</sub>
 </p>
 
 <img
@@ -198,6 +211,9 @@ Some anime I keep coming back to are **The Apothecary Diaries, Serial Experiment
 </p>
 
 <p align="center">
-  <sub>⌁ coding · learning · creating · figuring things out one project at a time ⌁</sub>
+  <sub>⌁ coding · learning · creating · ⌁ still figuring it out — and that's part of the fun ⌁
 </p>
-```
+
+<p align="center">
+  <sub>✦ ─────────────── ✦</sub>
+</p>
