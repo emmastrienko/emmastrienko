@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" alt="Chainsaw Man GIF" />
+<img align="right" height="240" src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" alt="Chainsaw Man GIF" />
 
 ###
 
@@ -44,18 +44,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-</div>
+  <br />
 
-###
-
-<div align="left" style="display: flex; align-items: center; gap: 12px;">
+<div align="left">
   <a href="https://www.youtube.com/@emmastrienko" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
   </a>
   <img draggable="false" style="height:30px;" src="https://komarev.com/ghpvc/?username=emmastrienko&style=for-the-badge&color=1C8C8C" alt="Profile Views" />
 </div>
 
-###
+<p align="right">
+  ╱|、<br />
+  (˚ˎ 。7<br />
+  |、˜〵<br />
+  じしˍ,)
+</p>
+
+
 
 <br clear="both">
 
@@ -151,6 +156,3 @@ Some anime I keep coming back to are **The Apothecary Diaries, Serial Experiment
 
 ---
 
-<p align="center">
-  <sub>⌁ coding · learning · creating · figuring things out one project at a time ⌁</sub>
-</p>
