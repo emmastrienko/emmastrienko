@@ -1,5 +1,6 @@
+
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc241OXJmZW9yejc0cnl0aWFtbHpsNzkxemFiaHZrNTRpbmtobmx2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3Wj1SxyDEznCjXiMtm/giphy.gif" alt="Maomao GIF" width="300" align="left" style="margin-top: 35px; margin-right: 20px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc241OXJmZW9yejc0cnl0YWFtbHpsNzkxemFiaHZrNTRpbmtobmx2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3Wj1SxyDEznCjXiMtm/giphy.gif" alt="Maomao GIF" width="300" align="left" style="margin-top: 35px; margin-right: 20px;" />
 
 <pre>
 💻 Full-stack developer & Computer Science student
@@ -26,6 +27,10 @@
 <br />
 <br />
 
+<p align="left">
+  ⌁ <sub>tools I use to turn ideas into things</sub>
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -44,7 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <br />
+</div>
+
+<br />
 
 <div align="left">
   <a href="https://www.youtube.com/@emmastrienko" target="_blank" rel="noopener noreferrer">
@@ -60,13 +67,25 @@
   じしˍ,)
 </p>
 
-
-
 <br clear="both">
+
+<p align="center">
+  · · ────── ✦ ────── · ·
+</p>
+
+<p align="center">
+  ⌁ <i>code · curiosity · creating things</i> ⌁
+</p>
 
 ## ✦ a little more about me
 
 <br clear="both">
+
+<p align="right">
+  ╭───────────────╮<br />
+  │  🧩 building  │<br />
+  ╰───────────────╯
+</p>
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdxczMyaGx2OGhqN2Z1ZG5zbGhvMmo3c2xobnIwNDMxc3YxeTF2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KqaOXPTuaixYRTjBQO/giphy.gif"
@@ -87,7 +106,9 @@ Lately, I've been interested in **SaaS products, AI-powered features, and learni
 
 <br clear="both">
 
----
+<p align="center">
+  · ──── ✦ ──── ·
+</p>
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JuYjd3ZzB4d2g5NTJmNWJ6ODYzZjRjMDlieGJjZ3JlYmxnODQ0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwkpuW7xF9BflrrYpB/giphy.gif"
@@ -108,7 +129,9 @@ I'm especially interested in getting better at **understanding code instead of j
 
 <br clear="both">
 
----
+<p align="center">
+  · ──── ⌁ ──── ·
+</p>
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFpcjJnNnR4dHU5eHh0cmh5OGIyMG12ZHdrbzU4eG8yc3l5dHVvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PFkgOFloYgGqc/giphy.gif"
@@ -131,7 +154,9 @@ My YouTube channel recently passed **1 million total views**, which made the who
 
 <br clear="both">
 
----
+<p align="center">
+  · ──── ✦ ──── ·
+</p>
 
 <img
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zdTIyZnIzbWlzaXNwdHhneXhlc3d2dGg1OHAxbWNvZ202NnNxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BF5QmKbJbiCJ9ECkkp/giphy.gif"
@@ -148,11 +173,17 @@ I'm into **anime, manga, Japanese, and music** — especially **Arctic Monkeys**
 
 I'm also learning Japanese little by little, mostly through **Duolingo, anime, and things I naturally come across online**.
 
-Some anime I keep coming back to are **The Apothecary Diaries, Serial Experiments Lain, Chainsaw Man, Death Note, Nana, Frieren, and Attack on Titan**.
+Some anime I keep coming back to are **The Apothecary Diaries, Serial Experiments Lain, Chainsaw Man, Death Note, Nana, Frieren, Attack on Titan, and Kamisama Kiss**.
 
 </div>
 
 <br clear="both">
 
----
+<p align="center">
+  · · ────── ✦ ────── · ·
+</p>
 
+<p align="center">
+  <sub>⌁ coding · learning · creating · figuring things out one project at a time ⌁</sub>
+</p>
+```
