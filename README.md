@@ -77,14 +77,13 @@
   <img draggable="false" style="height:30px;" src="https://komarev.com/ghpvc/?username=emmastrienko&style=for-the-badge&color=1C8C8C" alt="Profile Views" />
 </div>
 
-<p align="right">
+<p align="center">
   ╱|、<br />
   (˚ˎ 。7<br />
   |、˜〵<br />
   じしˍ,)
 </p>
 
-<br clear="both">
 
 <p align="center">
   · · ────── ✦ ────── · ·
